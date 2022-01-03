@@ -8,6 +8,7 @@ e-mail: alex.baskova86@gmail.com
 
 ## About myself:
 I want to change my profession and become a Front-End developer.
+
 ================================================================
 
 ## Code example:
@@ -27,7 +28,7 @@ No work experience.
 2. Content layout basics course https://ru.hexlet.io/
 3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
-* Language:
+## Language:
    + Belarussian - native.
    + Russian.
    + English - A1.
