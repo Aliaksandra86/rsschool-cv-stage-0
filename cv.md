@@ -22,7 +22,8 @@ console.log(phrases[randIndex]);
 ```
   
 ## Work experience: 
-No work experience.
+  No work experience.
+  
 
 ## Courses and trainings:
 1. HTML&CSSmasterclass video courses on YouTube channel ITEA training center https://html.onlineitea.com/
