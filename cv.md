@@ -31,7 +31,6 @@ console.log(phrases[randIndex]);
 3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
 ## Language:
-   + Belarussian - native.
    + Russian.
    + English - A1.
    
