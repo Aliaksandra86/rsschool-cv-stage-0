@@ -10,6 +10,7 @@ e-mail: alex.baskova86@gmail.com
 I want to change my profession and become a Front-End developer.
 
 ## Code example:
+
 <body>
   <article class="article">
   <h1></h1>
@@ -25,6 +26,7 @@ I want to change my profession and become a Front-End developer.
         <p></p>
       </div>
  </body>
+    
 
 ## Work experience: 
 No work experience.
@@ -34,8 +36,8 @@ No work experience.
 2. Content layout basics course https://ru.hexlet.io/
 3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
-## Language:
-    Belarussian - native.
-    Russian.
-    English - A1.
+* Language:
+   + Belarussian - native.
+   + Russian.
+   + English - A1.
    
