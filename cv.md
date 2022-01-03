@@ -8,26 +8,17 @@ e-mail: alex.baskova86@gmail.com
 
 ## About myself:
 I want to change my profession and become a Front-End developer.
+================================================================
 
 ## Code example:
 
-<body>
-  <article class="article">
-  <h1></h1>
-<p></p>
-<p></p>    
-    <section class="applicants">
-      <h2 class="applicants-header"></h2>
-      <div class="member">
-        <h3></h3>
-        <img src="./assets/magnus.jpg" alt="">
-        <p class="member-name"></p>
-        <p></p>
-        <p></p>
-      </div>
- </body>
-    
+function getRandomElement() {
+let randIndex = Math.floor(Math.random() * phrases.length);
+console.log(randIndex);
+console.log(phrases[randIndex]);
+}
 
+  
 ## Work experience: 
 No work experience.
 
