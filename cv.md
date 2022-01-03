@@ -5,7 +5,7 @@ phone: +375293703980
 
 e-mail: alex.baskova86@gmail.com
 
-[github:](https://github.com/Aliaksandra86)
+[github:] (https://github.com/Aliaksandra86)
 ****************************
 
 ## About myself:
