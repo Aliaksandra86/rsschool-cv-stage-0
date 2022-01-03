@@ -48,10 +48,11 @@ I want to change my profession and become a Front-End developer.
 No work experience.
 
 ## * Courses and trainings:
-    + HTML&CSSmasterclass video courses on YouTube channel ITEA training center https://html.onlineitea.com/
-    + Content layout basics course https://ru.hexlet.io/
-    + HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
+1. HTML&CSSmasterclass video courses on YouTube channel ITEA training center https://html.onlineitea.com/
+2. Content layout basics course https://ru.hexlet.io/
+3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
 ## Language:
-Russian - native.
-English level - A2
+    + Russian - native.
+
+    + English level - A1.
