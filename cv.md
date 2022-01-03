@@ -10,12 +10,48 @@ alex.baskova86@gmail.com
 I want to change my profession and become a Front-End developer.
 
 ## Code example:
+</head>
+<body>
+  <article class="article">
+        <h1></h1>
+<p></p>
+<p></p>    
+
+    <section class="applicants">
+      <h2 class="applicants-header"></h2>
+
+      <div class="member">
+        <h3></h3>
+        <img src="./assets/magnus.jpg" alt="Магнус Карлсен">
+        <p class="member-name"></p>
+        <p></p>
+        <p></p>
+      </div>
+
+      <div class="member">
+        <h3></h3>
+        <img src="./assets/karyakin.jpg" alt="Сергей Карякин">
+        <p class="member-name"> </p>
+        <p></p>
+        <p></p>
+      </div>
+    </section>
+    
+    <p>  </p>
+    <p>  </p>
+    
+  </article>
+</body>
+</html>
 
 ## Work experience: 
 No work experience.
 
-## Courses and trainings:
-1. Content layout basics course https://ru.hexlet.io/
-2. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
+## * Courses and trainings:
+    + HTML&CSSmasterclass video courses on YouTube channel ITEA training center https://html.onlineitea.com/
+    + Content layout basics course https://ru.hexlet.io/
+    + HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Language:
+Russian - native.
+English level - A2
