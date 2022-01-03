@@ -9,16 +9,17 @@ e-mail: alex.baskova86@gmail.com
 ## About myself:
 I want to change my profession and become a Front-End developer.
 
-================================================================
+****************************************************************
 
 ## Code example:
 
+```
 function getRandomElement() {
 let randIndex = Math.floor(Math.random() * phrases.length);
 console.log(randIndex);
 console.log(phrases[randIndex]);
 }
-
+```
   
 ## Work experience: 
 No work experience.
