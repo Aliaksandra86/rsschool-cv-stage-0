@@ -48,6 +48,6 @@ No work experience.
 3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
 ## Language:
-    + Russian - native.
+    - Russian - native.
 
-    + English level - A1.
+    - English level - A1.
