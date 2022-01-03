@@ -20,14 +20,14 @@ I want to change my profession and become a Front-End developer.
       <h2 class="applicants-header"></h2>
       <div class="member">
         <h3></h3>
-        <img src="./assets/magnus.jpg" alt="Магнус Карлсен">
+        <img src="./assets/magnus.jpg" alt="">
         <p class="member-name"></p>
         <p></p>
         <p></p>
       </div>
       <div class="member">
         <h3></h3>
-        <img src="./assets/karyakin.jpg" alt="Сергей Карякин">
+        <img src="./assets/karyakin.jpg" alt="">
         <p class="member-name"> </p>
         <p></p>
         <p></p>
