@@ -34,4 +34,9 @@ console.log(phrases[randIndex]);
 
 ## Language:
    + Russian.
+<<<<<<< HEAD
    + English - A1. 
+=======
+   + English - A1.
+   
+>>>>>>> 6a7ac05c4b88538c831798cbe4a7bf46da4eed9d
