@@ -1,16 +1,15 @@
 # Aliaksandra Vasko
 
 ### My contacts:
-375293703980 
+phone: +375293703980 
 
-alex.baskova86@gmail.com
+e-mail: alex.baskova86@gmail.com
 ****************************
 
 ## About myself:
 I want to change my profession and become a Front-End developer.
 
 ## Code example:
-</head>
 <body>
   <article class="article">
   <h1></h1>
@@ -25,19 +24,7 @@ I want to change my profession and become a Front-End developer.
         <p></p>
         <p></p>
       </div>
-      <div class="member">
-        <h3></h3>
-        <img src="./assets/karyakin.jpg" alt="">
-        <p class="member-name"> </p>
-        <p></p>
-        <p></p>
-      </div>
-    </section>
-    <p>  </p>
-    <p>  </p>
-    </article>
-</body>
-</html>
+ </body>
 
 ## Work experience: 
 No work experience.
